@@ -2,7 +2,7 @@
 
 ![amazon](https://user-images.githubusercontent.com/72185011/158957137-2b800171-6a3b-4b79-9c74-8ccb91450661.png)
 
-**Big N 구글, 페이스북, 마이크로소프트, 우버등 인터뷰 경험이 있고 양질의 글을 종합했습니다.**
+**Big N 구글, 페이스북, 마이크로소프트, 우버등 인터뷰 경험이 있는 양질의 글을 종합했습니다.**
 
 ## Step 0. LeetCode Easy Questions
 
