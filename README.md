@@ -10,7 +10,7 @@
 
 ## Step 1. Algo MOOC or Book
 
-저자는 파이썬을 사용했지만 나는 자바를 사용함으로 [로버트 세지윅의 알고리즘 책](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)]  
+저자는 파이썬을 사용했지만 나는 자바를 사용함으로 [로버트 세지윅의 알고리즘 책](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)   
 ![algo](https://user-images.githubusercontent.com/72185011/158957378-ed3859df-ecd3-4baa-82df-e761f9e61cbf.jpg)
 
 그리고 MOOC에 올려진 저자의 강의를 활용한다.
