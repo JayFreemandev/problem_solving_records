@@ -1,7 +1,7 @@
 /**
  * leetcode_338.java
- *
- * @author Jaeyun Jeong
+ * 질문 필요.
+ * @author Jaeyun Jeong 
  */
 public class leetcode_338 {
     public static void main(String[] args) {
