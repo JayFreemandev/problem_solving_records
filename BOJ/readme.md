@@ -14,7 +14,8 @@ DP - 1463, 11726, 11727, 9095, 10844, 11057, 2193, 9465, 2156, 11053, 11055, 117
  
 
 스택 - [10828](https://github.com/JayFreemandev/Problem-Solving/blob/main/BOJ/%EC%8A%A4%ED%83%9D/10828.md), 
-       [9012](https://github.com/JayFreemandev/Problem-Solving/blob/main/BOJ/%EC%8A%A4%ED%83%9D/9012.md), 10799
+       [9012](https://github.com/JayFreemandev/Problem-Solving/blob/main/BOJ/%EC%8A%A4%ED%83%9D/9012.md), 
+       [10799](https://github.com/JayFreemandev/Problem-Solving/tree/main/BOJ/%EC%8A%A4%ED%83%9D)
 
  
 
