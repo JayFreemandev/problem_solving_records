@@ -19,7 +19,7 @@ DP - 1463, 11726, 11727, 9095, 10844, 11057, 2193, 9465, 2156, 11053, 11055, 117
 
  
 
-큐 - 10845
+큐 - [10845](https://github.com/JayFreemandev/Problem-Solving/blob/main/BOJ/%ED%81%90/10845.md)
 
  
 
