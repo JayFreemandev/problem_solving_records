@@ -115,7 +115,4 @@ A : 한 3달잡고 100~200문제 풀어보니까 자주 쓰는 패턴도 보이�
 ###### [https://seanprashad.com/leetcode-patterns/](https://seanprashad.com/leetcode-patterns/)
 
 ###### Current LeetCode(6/500)
-
 ###### Current Programmers(1/55)
-
-###### Current LeetCode(6/500)
