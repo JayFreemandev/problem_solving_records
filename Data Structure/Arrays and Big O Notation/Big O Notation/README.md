@@ -483,14 +483,7 @@ int factorial(int n)
     return fac;
 }
 C
-n의 값에 상관없이 스택에는 n과 i 그리고 fac 변수만 저장됩니다. 여기서의 공간 복잡도는 
-O
-(
-1
-)
- 입니다.
-
-
+n의 값에 상관없이 스택에는 n과 i 그리고 fac 변수만 저장됩니다. 여기서의 공간 복잡도는 O(1)입니다.  
 
 ### Time Complexity vs Space Complexity  
 시간 복잡도는 “얼마나 빠르게 실행되느냐” 그리고 공간 복잡도는 “얼마나 많은 자원이 필요한가?”  
