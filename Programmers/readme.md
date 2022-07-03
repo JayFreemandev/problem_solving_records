@@ -7,5 +7,5 @@ for문과 hashmap, hashset을 사용하여 풀이하였는데 구현하기까지
 for문으로 비교만 해도 풀수있었다. 크게 어렵지 않았음.
 
 3. [카카오 신규 아이디 추천(2022-07-03)]
-()
+(https://github.com/JayFreemandev/Problem-Solving/blob/main/Programmers/Level1/Kakao_recommand_id.java)
 char 문자로 바꿔서 특정 문자 찾는법 모르거나, String 메소드중 replace, replaceAll, valueOf, subString 사용법 모르면 IDE없이 문제 못푼다. 
