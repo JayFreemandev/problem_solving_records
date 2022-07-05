@@ -7,3 +7,4 @@ class Solution {
 
 
 idk
+어떻게 풀지
