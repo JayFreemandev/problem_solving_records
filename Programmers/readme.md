@@ -12,5 +12,5 @@ char 문자로 바꿔서 특정 문자 찾는법 모르거나, String 메소드�
 4. [카카오 숫자 문자열과 영단어(2022-07-04)](https://github.com/JayFreemandev/Problem-Solving/blob/main/Programmers/Level1/Kakao_Number_game.java)    
 String 메소드중 replace의 사용법을 모르면 풀 수 없는 문제다.  
 
-5. [카카오 크레인게임(2022-07-05)](https://github.com/JayFreemandev/Problem-Solving/blob/main/Programmers/Level1/Kakao_Number_game.java)    
+5. [카카오 크레인게임(2022-07-05)](https://github.com/JayFreemandev/Problem-Solving/blob/main/Programmers/Level1/Kakao_Number_game.java)      
 못풀었음 
