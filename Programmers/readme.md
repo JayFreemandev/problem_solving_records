@@ -16,7 +16,7 @@ String 메소드중 replace의 사용법을 모르면 풀 수 없는 문제다.
 Stack과 for을 이용하여 풀 수 있는 문제다. stack.peak, stack.empty, stack.push만 알면 되고   
 제약조건이 stack이 무조건 들어있어야된다는 조건때문에 if로 한번 체크 해줘야된다.  
 
-5. [카카오 키패드 누르기(2022-07-08)](https://github.com/JayFreemandev/Problem-Solving/blob/main/Programmers/Level1/Kakao_Keypad.java)      
+6. [카카오 키패드 누르기(2022-07-08)](https://github.com/JayFreemandev/Problem-Solving/blob/main/Programmers/Level1/Kakao_Keypad.java)      
 못풀었다. 이렇게 푸는게 아닌거같다.
 
 # Level 2
