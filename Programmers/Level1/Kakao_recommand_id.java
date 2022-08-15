@@ -1,8 +1,8 @@
-package programmers.level1;
+package programmers.Level1;
 
 import java.util.*;
 
-public class Kakao_lotto {
+public class Kakao_recommand_id {
     public static void main(String[] args) {
         String newId = "...!@BaT#*..y.abcdefghijklm";
 

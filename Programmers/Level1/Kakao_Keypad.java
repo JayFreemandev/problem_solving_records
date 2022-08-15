@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Kakao_Keypad {
     public String solution(int[] numbers, String hand) {
         int[] lhand = {1, 4, 7};
         int[] rhand = {3, 6, 9};
@@ -12,7 +12,7 @@ class Solution {
             }else if(Arrays.stream(rhand).anyMatch(x -> x == num)){
                 System.out.print("R");
             }else{
-                System.out.print(numbers[i-2], numbers[i-1], num, hand);
+                System.out.print(closeHand(numbers[i-2], numbers[i-1], num, hand));
             }
         }
         
@@ -20,7 +20,7 @@ class Solution {
         return answer;
     }
     
-    public static string closeHand(int moreBefore, int before, int number, String hand){
+    public static String closeHand(int moreBefore, int before, int number, String hand){
         
         int leftLevel = 0;
         int rightLevel = 0;
@@ -32,11 +32,11 @@ class Solution {
         
         
         if(leftLevel > rightLevel){
-            return "L"
+            return "L";
         }else if(rightLevel > leftLevel){
-            return "R"
+            return "R";
         }
         
-        return hand.toUpperCase().charAt(0); 
+        return String.valueOf(hand.toUpperCase().charAt(0));
     }
 }

@@ -1,5 +1,5 @@
-class Solution {
-    public int solution(int[][] board, int[] moves) {
+class Kakao_Array_Game {
+/*    public int solution(int[][] board, int[] moves) {
         
         int answer = 0;
         
@@ -30,5 +30,5 @@ class Solution {
         }
         
         return answer*2;
-    }
+    }*/
 }
