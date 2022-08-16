@@ -22,6 +22,8 @@ Stack과 for을 이용하여 풀 수 있는 문제다. stack.peak, stack.empty, 
 7. [카카오 실패율(2022-08-15)](https://github.com/JayFreemandev/Problem-Solving/blob/main/Programmers/Level1/Kakao_Failure_Rate.java)   
 내림차순 정렬이 안떠오른다면 못푼다. for 반복 노가다
 
+8. [[1차] 비밀지도(2022-08-19)
+
 # Level 2
 # Level 3
 ###### Current Programmers(6/55)  
