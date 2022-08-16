@@ -19,8 +19,8 @@ Stack과 for을 이용하여 풀 수 있는 문제다. stack.peak, stack.empty, 
 6. [카카오 키패드 누르기(2022-07-08)](https://github.com/JayFreemandev/Problem-Solving/blob/main/Programmers/Level1/Kakao_Keypad.java)      
 못풀었다. 이렇게 푸는게 아닌거같다.
 
-6. [카카오 실패율(2022-08-15)](https://github.com/JayFreemandev/Problem-Solving/blob/main/Programmers/Level1/Kakao_Keypad.java)      
-못풀었다. 이렇게 푸는게 아닌거같다.
+7. [카카오 실패율(2022-08-15)](https://github.com/JayFreemandev/Problem-Solving/blob/main/Programmers/Level1/Kakao_Keypad.java) 
+아직 미풀이
 
 # Level 2
 # Level 3
