@@ -25,6 +25,9 @@ Stack과 for을 이용하여 풀 수 있는 문제다. stack.peak, stack.empty, 
 8. [카카오 1차 비밀지도(2022-08-25)](https://github.com/JayFreemandev/Problem-Solving/blob/main/Programmers/Level1/Kakao_Secret_Map.java)  
 첫번째 IDE 없이 풀어본 문제다. 인간적인 난이도를 보여주는 18년도의 카카오  
 
+9. [카카오 1차 다트게임(2022-??-??)()
+부지런히 풀어라 핫산
+
 # Level 2
 # Level 3
 ###### Current Programmers(8/55)  
