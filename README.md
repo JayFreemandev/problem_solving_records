@@ -10,16 +10,13 @@
 
 ## Step 1. Algo MOOC or Book
 
-저자는 파이썬을 사용했지만 나는 자바를 사용함으로 [로버트 세지윅의 알고리즘 책](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)   
-![algo](https://user-images.githubusercontent.com/72185011/158957378-ed3859df-ecd3-4baa-82df-e761f9e61cbf.jpg)
-
-그리고 MOOC에 올려진 저자의 강의를 활용한다.
+MOOC에 올려진 저자의 강의를 활용한다.
 
 1.  [https://www.coursera.org/learn/algorithms-part1](https://www.coursera.org/learn/algorithms-part1)  
 2.  [https://www.coursera.org/learn/algorithms-part2](https://www.coursera.org/learn/algorithms-part2) 
 
-책의 범위와 MOOC의 양이 방대하기때문에 기본적인 자료구조를 이해하고 있다면 Step 2로 넘어가라.  
-만약 문제를 어떻게 풀지 잘 모르겠다면 위에걸로 공부해라. 
+기본적인 자료구조를 이해하고 있다면 Step 2로 넘어가라.   
+만약 문제를 어떻게 풀지 잘 모르겠다면 위에걸로 공부해라.   
 
 ## Step2. Coderust
 
