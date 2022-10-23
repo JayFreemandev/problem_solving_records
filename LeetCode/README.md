@@ -6,4 +6,4 @@
 
 # Hard
 
-###### Current leetcode grind(1/500)  
+###### Current leetcode grind(3/500)  
