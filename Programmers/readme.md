@@ -29,5 +29,7 @@ Stack과 for을 이용하여 풀 수 있는 문제다. stack.peak, stack.empty, 
 부지런히 풀어라 핫산
 
 # Level 2
+1. [최댓값 최솟값](https://github.com/JayFreemandev/Problem-Solving/blob/main/Programmers/Level2/Max_Min.java)  
+Collections.min, max를 알면 쉽게 풀수있고 없으면 비교해가며 풀어야함  
 # Level 3
 ###### Current Programmers(8/55)  
