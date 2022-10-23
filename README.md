@@ -12,8 +12,8 @@
 
 MOOC에 올려진 저자의 강의를 활용한다.
 
-1.  [https://www.coursera.org/learn/algorithms-part1](https://www.coursera.org/learn/algorithms-part1)  
-2.  [https://www.coursera.org/learn/algorithms-part2](https://www.coursera.org/learn/algorithms-part2) 
+1.  [https://www.coursera.org/learn/algorithms-part1](https://www.coursera.org/learn/algorithms-part1){: width="100%" height="100%"}  
+2.  [https://www.coursera.org/learn/algorithms-part2](https://www.coursera.org/learn/algorithms-part2){: width="100%" height="100%"} 
 
 기본적인 자료구조를 이해하고 있다면 Step 2로 넘어가라.   
 만약 문제를 어떻게 풀지 잘 모르겠다면 위에걸로 공부해라.   
