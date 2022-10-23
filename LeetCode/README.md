@@ -1,7 +1,7 @@
 # Grind Leetcode!
 
 # EASY  
-- (GREEDY)[]
+- (GREEDY)[https://github.com/JayFreemandev/Problem-Solving/tree/main/LeetCode/Greedy]
 # MEDIUM
 
 # Hard
