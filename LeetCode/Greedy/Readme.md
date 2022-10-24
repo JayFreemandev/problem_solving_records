@@ -7,4 +7,4 @@
 - [1827, Minimum Operations to Make the Array Increasing](https://sour-othnielia-55f.notion.site/1827-Minimum-Operations-to-Make-the-Array-Increasing-963d21e0b4b64c1590164703f6fb865e)
 - [561, Array Partition](https://sour-othnielia-55f.notion.site/561-Array-Partition-57c021b018d44d9f902cc3642798b719)
 
-###### Current GREEDY(4/?)  
+###### Current GREEDY(5/?)  
