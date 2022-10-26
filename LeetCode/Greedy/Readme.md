@@ -7,8 +7,8 @@
 - [1827, Minimum Operations to Make the Array Increasing](https://sour-othnielia-55f.notion.site/1827-Minimum-Operations-to-Make-the-Array-Increasing-963d21e0b4b64c1590164703f6fb865e)
 - [561, Array Partition](https://sour-othnielia-55f.notion.site/561-Array-Partition-57c021b018d44d9f902cc3642798b719)
 - [942, DI String Match](https://sour-othnielia-55f.notion.site/942-DI-String-Match-255fba6234104a0c95260586afb90281)
-- [1710, Maximum Units on a Truck]()
-- [1217, Minimum Cost to Move Chips to The Same Position]()
+- [1710, Maximum Units on a Truck](https://sour-othnielia-55f.notion.site/1710-Maximum-Units-on-a-Truck-8ce64e736f134c9ea8cb82154643d2a8)
+- [1217, Minimum Cost to Move Chips to The Same Position](https://sour-othnielia-55f.notion.site/1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position-85485d3a6f074644b0c7fc3004886d5f)
 
 다음주
 - [1403, Minimum Subsequence in Non-Increasing Order]
