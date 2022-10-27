@@ -6,19 +6,20 @@
 - [1323, Maximum 69 Number](https://sour-othnielia-55f.notion.site/1323-Maximum-69-Number-20d7c92a8cee46c88a96f001d3a83f8c)
 - [1827, Minimum Operations to Make the Array Increasing](https://sour-othnielia-55f.notion.site/1827-Minimum-Operations-to-Make-the-Array-Increasing-963d21e0b4b64c1590164703f6fb865e)
 - [561, Array Partition](https://sour-othnielia-55f.notion.site/561-Array-Partition-57c021b018d44d9f902cc3642798b719)
-- [942, DI String Match]()
-- [1710, Maximum Units on a Truck]()
-- [1217, Minimum Cost to Move Chips to The Same Position]()
+- [942, DI String Match](https://sour-othnielia-55f.notion.site/942-DI-String-Match-255fba6234104a0c95260586afb90281)
+- [1710, Maximum Units on a Truck](https://sour-othnielia-55f.notion.site/1710-Maximum-Units-on-a-Truck-8ce64e736f134c9ea8cb82154643d2a8)  
+- [1217, Minimum Cost to Move Chips to The Same Position](https://sour-othnielia-55f.notion.site/1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position-85485d3a6f074644b0c7fc3004886d5f)
 
 다음주
 - [1403, Minimum Subsequence in Non-Increasing Order]
-- [1974, Minimum Time to Type Word Using Special Typewriter]
-- [2078, Two Furthest Houses With Different Colors]
+- [1974, Minimum Time to Type Word Using Special Typewriter](https://sour-othnielia-55f.notion.site/1974-Minimum-Time-to-Type-Word-Using-Special-Typewriter-af8b34d4e7eb4b9985fac6ebe9a5f619)
+- [2078, Two Furthest Houses With Different Colors](https://sour-othnielia-55f.notion.site/2078-Two-Furthest-Houses-With-Different-Colors-65ba5421ccfe44a9be22486ca1dc6a17)
 - [2224, Minimum Number of Operations to Convert Time]
 - [2389, Longest Subsequence With Limited Sum]
 - [2144, Minimum Cost of Buying Candies With Discount]
 - [1903, Largest Odd Number in String]
 - [2335, Minimum Amount of Time to Fill Cups]
+
 
 다음주
 - [976, Largest Perimeter Triangle]
