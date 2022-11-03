@@ -18,7 +18,7 @@
 - [1903, Largest Odd Number in String](https://sour-othnielia-55f.notion.site/1903-d182c93e06ea4aeda1f161b807254671)
 - [2335, Minimum Amount of Time to Fill Cups]
 - [976, Largest Perimeter Triangle](https://sour-othnielia-55f.notion.site/976-Largest-Perimeter-Triangle-8484b169ab4b4bdb9ddfe077ef5e3b0f)
-- [409, ongest Palindrome]
+- [409, Longest Palindrome]
 
 다음주
 - [976, Largest Perimeter Triangle]
