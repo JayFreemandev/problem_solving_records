@@ -58,4 +58,4 @@ extra(option)
 Reducing Dishes
 1526	
 Minimum Number of Increments on Subarrays to Form a Target Array
-###### Current GREEDY(14/?)  
+###### Current GREEDY(16/?)  
