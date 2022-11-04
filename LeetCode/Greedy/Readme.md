@@ -22,16 +22,12 @@
 - [2027, Minimum Moves to Convert String](https://sour-othnielia-55f.notion.site/2027-Minimum-Moves-to-Convert-String-e842da6133294802a67e1e765e256a91)
   
 다음주
-- [976, Largest Perimeter Triangle]
-- [409, ongest Palindrome]
 - [860. Lemonade Change]
-
-                                        
-extra(option)
 - [1005, Maximize Sum Of Array After K Negations]
 - [455, Assign Cookies]
 - [2259, Remove Digit From Number to Maximize Result]
 - [1013. Partition Array Into Three Parts With Equal Sum]
+
 #### Medium
 - [1689,	Partitioning Into Minimum Number Of Deci-Binary Numbers]
 - [807, Max Increase to Keep City Skyline]
@@ -54,9 +50,4 @@ extra(option)
 - [2294, Partition Array Such That Maximum Difference Is K]
 - [1850, Minimum Adjacent Swaps to Reach the Kth Smallest Number]
 
-#### Hard
-1402	
-Reducing Dishes
-1526	
-Minimum Number of Increments on Subarrays to Form a Target Array
 ###### Current GREEDY(16/?)  
