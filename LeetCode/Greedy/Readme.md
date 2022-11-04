@@ -16,14 +16,13 @@
 - [2224, Minimum Number of Operations to Convert Time](https://sour-othnielia-55f.notion.site/2224-Minimum-Number-of-Operations-to-Convert-Time-f95ebe6858b641a996b671396b0ff4a3)
 - [2144, Minimum Cost of Buying Candies With Discount](https://sour-othnielia-55f.notion.site/2144-Minimum-Cost-of-Buying-Candies-With-Discount-e42588be652b4a1aade61613b957c97b)
 - [1903, Largest Odd Number in String](https://sour-othnielia-55f.notion.site/1903-d182c93e06ea4aeda1f161b807254671)
-- [2335, Minimum Amount of Time to Fill Cups]
+- [2027, Minimum Moves to Convert String](https://sour-othnielia-55f.notion.site/2027-Minimum-Moves-to-Convert-String-e842da6133294802a67e1e765e256a91)
 - [976, Largest Perimeter Triangle](https://sour-othnielia-55f.notion.site/976-Largest-Perimeter-Triangle-8484b169ab4b4bdb9ddfe077ef5e3b0f)
 - [409, Longest Palindrome](https://sour-othnielia-55f.notion.site/409-Longest-Palindrome-703882fbe8ae430a9647f98d2e87a7af)
 
 다음주
 - [976, Largest Perimeter Triangle]
 - [409, ongest Palindrome]
-- [2027, Minimum Moves to Convert String]
 - [860. Lemonade Change]
 
                                         
