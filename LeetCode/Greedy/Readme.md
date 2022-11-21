@@ -22,7 +22,7 @@
 - [2027, Minimum Moves to Convert String](https://sour-othnielia-55f.notion.site/2027-Minimum-Moves-to-Convert-String-e842da6133294802a67e1e765e256a91)
   
 다음주
-- [860. Lemonade Change]
+- [860. Lemonade Change](https://sour-othnielia-55f.notion.site/860-Lemonade-Change-178cd031c0d0430dbd2bac2f9bdddd2c)  
 - [1005, Maximize Sum Of Array After K Negations]
 - [455, Assign Cookies]
 - [2259, Remove Digit From Number to Maximize Result]
