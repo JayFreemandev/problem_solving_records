@@ -23,7 +23,7 @@
   
 다음주
 - [860. Lemonade Change](https://sour-othnielia-55f.notion.site/860-Lemonade-Change-178cd031c0d0430dbd2bac2f9bdddd2c)  
-- [1005, Maximize Sum Of Array After K Negations]
+- [1005, Maximize Sum Of Array After K Negations](https://sour-othnielia-55f.notion.site/1005-Maximize-Sum-Of-Array-After-K-Negations-bf60c092e20a4430b111039ee15e265e) 
 - [455, Assign Cookies]
 - [2259, Remove Digit From Number to Maximize Result]
 - [1013. Partition Array Into Three Parts With Equal Sum]
