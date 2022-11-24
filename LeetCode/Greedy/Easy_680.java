@@ -14,4 +14,4 @@ public class Easy_680 {
     public static boolean validPalindrome(String s) {
         return false;
     }
-}
+} 
