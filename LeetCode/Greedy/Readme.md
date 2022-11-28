@@ -9,8 +9,8 @@
 - [942, DI String Match](https://sour-othnielia-55f.notion.site/942-DI-String-Match-255fba6234104a0c95260586afb90281)
 - [1710, Maximum Units on a Truck](https://sour-othnielia-55f.notion.site/1710-Maximum-Units-on-a-Truck-8ce64e736f134c9ea8cb82154643d2a8)
 - [1217, Minimum Cost to Move Chips to The Same Position](https://sour-othnielia-55f.notion.site/1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position-85485d3a6f074644b0c7fc3004886d5f)
-
-다음주
+  
+#### 다음주
 - [1974, Minimum Time to Type Word Using Special Typewriter](https://sour-othnielia-55f.notion.site/1974-Minimum-Time-to-Type-Word-Using-Special-Typewriter-af8b34d4e7eb4b9985fac6ebe9a5f619)
 - [2078, Two Furthest Houses With Different Colors](https://sour-othnielia-55f.notion.site/2078-Two-Furthest-Houses-With-Different-Colors-65ba5421ccfe44a9be22486ca1dc6a17)
 - [2224, Minimum Number of Operations to Convert Time](https://sour-othnielia-55f.notion.site/2224-Minimum-Number-of-Operations-to-Convert-Time-f95ebe6858b641a996b671396b0ff4a3)
@@ -40,7 +40,7 @@
 - [2375, Construct Smallest Number From DI String]
 - [406, Queue Reconstruction by Height]
 
-다음주
+#### 다음주
 - [1529, Minimum Suffix Flips]
 - [1561, Maximum Number of Coins You Can Get]
 - [2294, Partition Array Such That Maximum Difference Is K]
