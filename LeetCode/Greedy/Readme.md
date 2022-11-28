@@ -20,7 +20,6 @@
 - [976, Largest Perimeter Triangle](https://sour-othnielia-55f.notion.site/976-Largest-Perimeter-Triangle-8484b169ab4b4bdb9ddfe077ef5e3b0f)
 - [409, Longest Palindrome](https://sour-othnielia-55f.notion.site/409-Longest-Palindrome-703882fbe8ae430a9647f98d2e87a7af)
   
-다음주
 - [860. Lemonade Change](https://sour-othnielia-55f.notion.site/860-Lemonade-Change-178cd031c0d0430dbd2bac2f9bdddd2c)  
 - [1005, Maximize Sum Of Array After K Negations](https://sour-othnielia-55f.notion.site/1005-Maximize-Sum-Of-Array-After-K-Negations-bf60c092e20a4430b111039ee15e265e) 
 - [455, Assign Cookies](https://sour-othnielia-55f.notion.site/455-Assign-Cookies-57aaca4f94c145a1a9a3f1f980c3a111)  
@@ -30,10 +29,8 @@
 #### Medium
 - [1689,	Partitioning Into Minimum Number Of Deci-Binary Numbers](https://sour-othnielia-55f.notion.site/1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers-6a468c19082240b0a9cb316f6275b15d)  
 - [807, Max Increase to Keep City Skyline](https://sour-othnielia-55f.notion.site/807-Max-Increase-to-Keep-City-Skyline-944f87632da94044943864ce26df5a68)
-- [1382, Balance a Binary Search Tree]
-
-다음주
 - [1877, Minimize Maximum Pair Sum in Array]
+
 - [763, Partition Labels]
 - [1561, Maximum Number of Coins You Can Get]
 - [1605, Find Valid Matrix Given Row and Column Sums]
@@ -41,9 +38,9 @@
 - [861, Score After Flipping Matrix]
 - [2405, Optimal Partition of String]
 - [2375, Construct Smallest Number From DI String]
+- [406, Queue Reconstruction by Height]
 
 다음주
-- [406, Queue Reconstruction by Height]
 - [1529, Minimum Suffix Flips]
 - [1561, Maximum Number of Coins You Can Get]
 - [2294, Partition Array Such That Maximum Difference Is K]
