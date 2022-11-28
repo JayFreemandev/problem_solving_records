@@ -27,7 +27,6 @@
 - [1689,	Partitioning Into Minimum Number Of Deci-Binary Numbers](https://sour-othnielia-55f.notion.site/1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers-6a468c19082240b0a9cb316f6275b15d)
 - [807, Max Increase to Keep City Skyline](https://sour-othnielia-55f.notion.site/807-Max-Increase-to-Keep-City-Skyline-944f87632da94044943864ce26df5a68)
 - [1877, Minimize Maximum Pair Sum in Array]
-
 - [763, Partition Labels]
 - [1561, Maximum Number of Coins You Can Get]
 - [1605, Find Valid Matrix Given Row and Column Sums]
