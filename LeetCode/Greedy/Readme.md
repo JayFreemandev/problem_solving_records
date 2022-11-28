@@ -46,4 +46,4 @@
 - [2294, Partition Array Such That Maximum Difference Is K]
 - [1850, Minimum Adjacent Swaps to Reach the Kth Smallest Number]
 
-###### Current GREEDY(23/?)  
+###### Current GREEDY(23/37)  
