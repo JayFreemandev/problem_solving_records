@@ -27,7 +27,7 @@
 - [1689,	Partitioning Into Minimum Number Of Deci-Binary Numbers](https://sour-othnielia-55f.notion.site/1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers-6a468c19082240b0a9cb316f6275b15d)
 - [807, Max Increase to Keep City Skyline](https://sour-othnielia-55f.notion.site/807-Max-Increase-to-Keep-City-Skyline-944f87632da94044943864ce26df5a68)
 - [1877, Minimize Maximum Pair Sum in Array](https://sour-othnielia-55f.notion.site/763-Partition-Labels-538217dd61454580974556b5ee1cf65f)
-- [763, Partition Labels]
+- [763, Partition Labels](https://sour-othnielia-55f.notion.site/763-Partition-Labels-538217dd61454580974556b5ee1cf65f)
 - [1561, Maximum Number of Coins You Can Get]
 - [1605, Find Valid Matrix Given Row and Column Sums]
 - [921, Minimum Add to Make Parentheses Valid]
