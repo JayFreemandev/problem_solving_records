@@ -35,8 +35,6 @@
 - [2405, Optimal Partition of String]
 - [2375, Construct Smallest Number From DI String]
 - [406, Queue Reconstruction by Height]
-
-#### 다음주
 - [1529, Minimum Suffix Flips]
 - [1561, Maximum Number of Coins You Can Get]
 - [2294, Partition Array Such That Maximum Difference Is K]
