@@ -31,7 +31,7 @@
 - [1561, Maximum Number of Coins You Can Get](https://sour-othnielia-55f.notion.site/1561-Maximum-Number-of-Coins-You-Can-Get-f1dbeeb6c2b84fc2a1ea34dbff212730)
 - [1605, Find Valid Matrix Given Row and Column Sums](https://sour-othnielia-55f.notion.site/1605-Find-Valid-Matrix-Given-Row-and-Column-Sums-730239cd31e54106bbca8e9e7c658ae4)
 - [921, Minimum Add to Make Parentheses Valid](https://sour-othnielia-55f.notion.site/921-Minimum-Add-to-Make-Parentheses-Valid-bfc15915a9d74baf8d295f97acdcb6ad)
-- [2405, Optimal Partition of String]
+- [2405, Optimal Partition of String](https://sour-othnielia-55f.notion.site/2405-Optimal-Partition-of-String-1939b90b501e47c482d086c3f126f45f)
 - [2375, Construct Smallest Number From DI String]
 - [406, Queue Reconstruction by Height]
 - [1529, Minimum Suffix Flips]
