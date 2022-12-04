@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 /**
  * Created at 2022-12-04
  * Site -> LINKEDIN
@@ -13,5 +15,17 @@ public class MEDIUM_921 {
 
     public static int minAddToMakeValid(String s) {
 
+        int right =0, left =0;
+
+        for(int i=0; i<s.length(); i++){
+            if(s.charAt(i) == '('){
+                right++;
+            }else if(right > 0){
+                right--;
+            }else{
+                left++;
+            }
+        }
+        return right + left;
     }
 }
