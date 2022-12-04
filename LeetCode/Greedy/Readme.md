@@ -29,7 +29,7 @@
 - [1877, Minimize Maximum Pair Sum in Array](https://sour-othnielia-55f.notion.site/763-Partition-Labels-538217dd61454580974556b5ee1cf65f)
 - [763, Partition Labels](https://sour-othnielia-55f.notion.site/763-Partition-Labels-538217dd61454580974556b5ee1cf65f)
 - [1561, Maximum Number of Coins You Can Get](https://sour-othnielia-55f.notion.site/1561-Maximum-Number-of-Coins-You-Can-Get-f1dbeeb6c2b84fc2a1ea34dbff212730)
-- [1605, Find Valid Matrix Given Row and Column Sums]
+- [1605, Find Valid Matrix Given Row and Column Sums](https://sour-othnielia-55f.notion.site/1605-Find-Valid-Matrix-Given-Row-and-Column-Sums-730239cd31e54106bbca8e9e7c658ae4)
 - [921, Minimum Add to Make Parentheses Valid]
 - [861, Score After Flipping Matrix]
 - [2405, Optimal Partition of String]
