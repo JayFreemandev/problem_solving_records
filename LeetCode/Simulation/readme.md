@@ -1,6 +1,6 @@
 ## easy
 1920	  
-Build Array from Permutation	91.5%	Easy	  
+Build Array from Permutation	91.5%	Easy	   
 2011	   
 Final Value of Variable After Performing Operations	88.9%	Easy	                          
 1688	                
@@ -40,4 +40,6 @@ Rearrange Array Elements by Sign	81.0%	Medium
 2221	               
 Find Triangular Sum of an Array	79.1%	Medium	       
 1823	      
-Find the Winner of the Circular Game	77.8%	Medium         
+Find the Winner of the Circular Game	77.8%	Medium    
+  
+###### Current SIMULATION(0/20)  
