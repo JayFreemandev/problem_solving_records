@@ -34,7 +34,7 @@
 - [2405, Optimal Partition of String](https://sour-othnielia-55f.notion.site/2405-Optimal-Partition-of-String-1939b90b501e47c482d086c3f126f45f)
 - [2375, Construct Smallest Number From DI String](https://sour-othnielia-55f.notion.site/2375-Construct-Smallest-Number-From-DI-String-b1adea0d3b254daaa69d1af7d16b3ecc)
 - [406, Queue Reconstruction by Height](https://sour-othnielia-55f.notion.site/406-Queue-Reconstruction-by-Height-bb1909ab50b24b6ab27ec57ccf78afdb)
-- [1529, Minimum Suffix Flips]
+- [1529, Minimum Suffix Flips](https://sour-othnielia-55f.notion.site/1529-Minimum-Suffix-Flips-31c5540f0fb24fbd97c2fe27c2a1b35e)
 - [1561, Maximum Number of Coins You Can Get]
 - [2294, Partition Array Such That Maximum Difference Is K]
 - [1850, Minimum Adjacent Swaps to Reach the Kth Smallest Number]
