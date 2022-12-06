@@ -6,9 +6,9 @@ Final Value of Variable After Performing Operations	88.9%	Easy
 1688	                
 Count of Matches in Tournament	83.1%	Easy	                                   
 832	                
-Flipping an Image	80.4%	Easy	                 	 
-2169	                  
-Count Operations to Obtain Zero	75.5%	Easy	                                        
+Flipping an Image	80.4%	Easy	                    	 
+2169	                    
+Count Operations to Obtain Zero	75.5%	Easy	                                          
 2154	                
 Keep Multiplying Found Values by Two	73.3%	Easy	                  
 2357	             
