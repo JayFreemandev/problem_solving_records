@@ -26,8 +26,7 @@ MOOC에 올려진 저자의 강의를 활용한다.
 
 ## Step3. Teamblind List
 New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time  
-페이스북 시니어 개발자가 새해선물로 올려준 [75가지 리트코드 문제들](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)인데 풀어봐라.
-
+페이스북 시니어 개발자가 새해선물로 올려준 [75가지 리트코드 문제들](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
 [리트코드 리스트 포맷](https://leetcode.com/list/xoqag3yj/)
 
