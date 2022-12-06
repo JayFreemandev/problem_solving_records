@@ -38,4 +38,4 @@
 - [2294, Partition Array Such That Maximum Difference Is K](https://sour-othnielia-55f.notion.site/2294-Partition-Array-Such-That-Maximum-Difference-Is-K-2fa1b9df334b4046b2d7d1c4370c77ab)
 - [1850, Minimum Adjacent Swaps to Reach the Kth Smallest Number]
 
-###### Current GREEDY(30/35)  
+###### Current GREEDY(34/35)  
