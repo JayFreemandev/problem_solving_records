@@ -1,8 +1,8 @@
 ## 20 easy
 1920	  
-Build Array from Permutation	91.5%	Easy	 
-2011	 
-Final Value of Variable After Performing Operations	88.9%	Easy	      
+Build Array from Permutation	91.5%	Easy	  
+2011	   
+Final Value of Variable After Performing Operations	88.9%	Easy	        
 1603	          
 Design Parking System	88.1%	Easy	            
 1389	         
