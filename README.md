@@ -60,8 +60,7 @@ A : 한 3달잡고 100~200문제 풀어보니까 자주 쓰는 패턴도 보이�
 
 **레퍼런스**
 
-###### [https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/](https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/)
-###### [https://seanprashad.com/leetcode-patterns/](https://seanprashad.com/leetcode-patterns/)
-
+###### [my_leetcode_study_guide](https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/)
+###### [leetcode-patterns](https://seanprashad.com/leetcode-patterns/)
 ###### Current LeetCode(34/500)
 ###### Current Programmers(8/55)
