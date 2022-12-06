@@ -20,7 +20,7 @@ MOOC에 올려진 저자의 강의를 활용한다.
 
 ## Step2. Coderust
 
-[https://www.educative.io/courses/coderust-hacking-the-coding-interview](https://www.educative.io/courses/coderust-hacking-the-coding-interview)
+[Coderust](https://www.educative.io/courses/coderust-hacking-the-coding-interview)
 
 ## Step3. Teamblind List
 New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time  
