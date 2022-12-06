@@ -33,7 +33,7 @@
 - [921, Minimum Add to Make Parentheses Valid](https://sour-othnielia-55f.notion.site/921-Minimum-Add-to-Make-Parentheses-Valid-bfc15915a9d74baf8d295f97acdcb6ad)
 - [2405, Optimal Partition of String](https://sour-othnielia-55f.notion.site/2405-Optimal-Partition-of-String-1939b90b501e47c482d086c3f126f45f)
 - [2375, Construct Smallest Number From DI String](https://sour-othnielia-55f.notion.site/2375-Construct-Smallest-Number-From-DI-String-b1adea0d3b254daaa69d1af7d16b3ecc)
-- [406, Queue Reconstruction by Height]
+- [406, Queue Reconstruction by Height](https://sour-othnielia-55f.notion.site/406-Queue-Reconstruction-by-Height-bb1909ab50b24b6ab27ec57ccf78afdb)
 - [1529, Minimum Suffix Flips]
 - [1561, Maximum Number of Coins You Can Get]
 - [2294, Partition Array Such That Maximum Difference Is K]
