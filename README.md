@@ -12,8 +12,8 @@
 
 MOOC에 올려진 저자의 강의를 활용한다.
 
-1.  [https://www.coursera.org/learn/algorithms-part1](https://www.coursera.org/learn/algorithms-part1){: width="100%" height="100%"}  
-2.  [https://www.coursera.org/learn/algorithms-part2](https://www.coursera.org/learn/algorithms-part2){: width="100%" height="100%"} 
+1.  https://www.coursera.org/learn/algorithms-part1
+2.  https://www.coursera.org/learn/algorithms-part2
 
 기본적인 자료구조를 이해하고 있다면 Step 2로 넘어가라.   
 만약 문제를 어떻게 풀지 잘 모르겠다면 위에걸로 공부해라.   
@@ -21,8 +21,6 @@ MOOC에 올려진 저자의 강의를 활용한다.
 ## Step2. Coderust
 
 [https://www.educative.io/courses/coderust-hacking-the-coding-interview](https://www.educative.io/courses/coderust-hacking-the-coding-interview)
-
-강의를 구매하라는게 아니라 강의 목차에 해당하는 문제들을 리트코드에 검색해서 풀어봐라.
 
 ## Step3. Teamblind List
 New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time  
@@ -65,5 +63,5 @@ A : 한 3달잡고 100~200문제 풀어보니까 자주 쓰는 패턴도 보이�
 ###### [https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/](https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/)
 ###### [https://seanprashad.com/leetcode-patterns/](https://seanprashad.com/leetcode-patterns/)
 
-###### Current LeetCode(7/500)
+###### Current LeetCode(34/500)
 ###### Current Programmers(8/55)
