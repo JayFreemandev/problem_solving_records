@@ -36,3 +36,15 @@
 1971, Find if Path Exists in Graph  
 2331, Evaluate Boolean Binary Tree  
 34
+
+#### Medium
+695. Max Area of Island  
+797. All Paths From Source to Target  
+1038. Binary Search Tree to Greater Sum Tree  
+1261. Find Elements in a Contaminated Binary Tree  
+1302. Deepest Leaves Sum  
+1315. Sum of Nodes with Even-Valued Grandparent  
+1448. Count Good Nodes in Binary Tree  
+2196. Create Binary Tree From Descriptions  
+2265. Count Nodes Equal to Average of Subtree  
+2415. Reverse Odd Levels of Binary Tree  
