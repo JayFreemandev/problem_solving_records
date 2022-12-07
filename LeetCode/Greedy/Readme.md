@@ -22,7 +22,7 @@
 - [455, Assign Cookies](https://sour-othnielia-55f.notion.site/455-Assign-Cookies-57aaca4f94c145a1a9a3f1f980c3a111)
 - [2259, Remove Digit From Number to Maximize Result](https://sour-othnielia-55f.notion.site/2259-Remove-Digit-From-Number-to-Maximize-Result-ab81f6cf873c4314a51e3181ed1295e1)
 - [1013. Partition Array Into Three Parts With Equal Sum](https://sour-othnielia-55f.notion.site/1013-Partition-Array-Into-Three-Parts-With-Equal-Sum-c841194c6fb04572af07855a087b7754)
-
+### November
 #### Medium
 - [1689,	Partitioning Into Minimum Number Of Deci-Binary Numbers](https://sour-othnielia-55f.notion.site/1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers-6a468c19082240b0a9cb316f6275b15d)
 - [807, Max Increase to Keep City Skyline](https://sour-othnielia-55f.notion.site/807-Max-Increase-to-Keep-City-Skyline-944f87632da94044943864ce26df5a68)
