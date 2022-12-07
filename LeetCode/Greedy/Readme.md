@@ -36,6 +36,5 @@
 - [406, Queue Reconstruction by Height](https://sour-othnielia-55f.notion.site/406-Queue-Reconstruction-by-Height-bb1909ab50b24b6ab27ec57ccf78afdb)
 - [1529, Minimum Suffix Flips](https://sour-othnielia-55f.notion.site/1529-Minimum-Suffix-Flips-31c5540f0fb24fbd97c2fe27c2a1b35e)
 - [2294, Partition Array Such That Maximum Difference Is K](https://sour-othnielia-55f.notion.site/2294-Partition-Array-Such-That-Maximum-Difference-Is-K-2fa1b9df334b4046b2d7d1c4370c77ab)
-- [1850, Minimum Adjacent Swaps to Reach the Kth Smallest Number]
 
-###### Current GREEDY(34/35)  
+###### Current GREEDY(33/33)
