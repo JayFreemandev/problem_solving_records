@@ -1,7 +1,7 @@
 ## 2022
 ### December
 #### Easy
-- [1920, Build Array from Permutation]	   
+- [1920, Build Array from Permutation](https://sour-othnielia-55f.notion.site/1920-Build-Array-from-Permutation-661d716f5efe4917994d13486382aff4)
 - 2011, Final Value of Variable After Performing Operations	88.9%	Easy	                          
 - 1688, Count of Matches in Tournament	83.1%	Easy	                                   
 - 832, Flipping an Image	80.4%	Easy	                    	 
@@ -24,4 +24,4 @@
 - 2221, Find Triangular Sum of an Array	79.1%	Medium	       
 - 1823, Find the Winner of the Circular Game	77.8%	Medium    
   
-###### Current SIMULATION(0/20)
+###### Current SIMULATION(1/20)
