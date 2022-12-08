@@ -2,10 +2,10 @@
  * Created at 2022-12-07
  * Site -> LINKEDIN
  * Link -> https://leetcode.com/problems/build-array-from-permutation
- * Level -> MEDIUM
- * Topic -> SITUATION
+ * Level -> EASY
+ * Topic -> SIMULATION
  */
-public class MEDIUM_406 {
+public class EASY_1920 {
     public static void main(String[] args) {
         int[] people = {0,2,1,5,3,4};
         System.out.println(buildArray(people));
