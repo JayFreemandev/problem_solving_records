@@ -2,7 +2,7 @@
 ### December
 #### Easy
 - [1920, Build Array from Permutation](https://sour-othnielia-55f.notion.site/1920-Build-Array-from-Permutation-661d716f5efe4917994d13486382aff4)
-- 2011, Final Value of Variable After Performing Operations	88.9%	Easy	                          
+- 2011, Final Value of Variable After Performing Operations(https://sour-othnielia-55f.notion.site/2011-Final-Value-of-Variable-After-Performing-Operations-5c8d58be871c401eb6d52cd05f1c57bd)                         
 - 1688, Count of Matches in Tournament	83.1%	Easy	                                   
 - 832, Flipping an Image	80.4%	Easy	                    	 
 - 2169, Count Operations to Obtain Zero	75.5%	Easy	                                          
