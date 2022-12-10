@@ -3,7 +3,7 @@
 #### Easy
 - [1920, Build Array from Permutation](https://sour-othnielia-55f.notion.site/1920-Build-Array-from-Permutation-661d716f5efe4917994d13486382aff4)
 - [2011, Final Value of Variable After Performing Operations](https://sour-othnielia-55f.notion.site/2011-Final-Value-of-Variable-After-Performing-Operations-5c8d58be871c401eb6d52cd05f1c57bd)                         
-- 1688, Count of Matches in Tournament	83.1%	Easy	                                   
+- [1688, Count of Matches in Tournament](https://sour-othnielia-55f.notion.site/1688-Count-of-Matches-in-Tournament-43f3fd73fcd14b57b31deeea549dc760)
 - 832, Flipping an Image	80.4%	Easy	                    	 
 - 2169, Count Operations to Obtain Zero	75.5%	Easy	                                          
 - 2154, Keep Multiplying Found Values by Two	73.3%	Easy	                  
@@ -24,4 +24,4 @@
 - 2221, Find Triangular Sum of an Array	79.1%	Medium	       
 - 1823, Find the Winner of the Circular Game	77.8%	Medium    
   
-###### Current SIMULATION(2/20)
+###### Current SIMULATION(3/20)
