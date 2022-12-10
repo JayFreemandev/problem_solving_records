@@ -5,7 +5,7 @@
 - [2011, Final Value of Variable After Performing Operations](https://sour-othnielia-55f.notion.site/2011-Final-Value-of-Variable-After-Performing-Operations-5c8d58be871c401eb6d52cd05f1c57bd)                         
 - [1688, Count of Matches in Tournament](https://sour-othnielia-55f.notion.site/1688-Count-of-Matches-in-Tournament-43f3fd73fcd14b57b31deeea549dc760)
 - [832, Flipping an Image](https://sour-othnielia-55f.notion.site/832-Flipping-an-Image-ddfed6753e444576ae46c246173eae3a)               	 
-- 2169, Count Operations to Obtain Zero	75.5%	Easy	                                          
+- [2169, Count Operations to Obtain Zero](https://sour-othnielia-55f.notion.site/2169-Count-Operations-to-Obtain-Zero-1fe0bb1aab084ed9bb1a389b95575adb)
 - 2154, Keep Multiplying Found Values by Two	73.3%	Easy	                  
 - 2357, Make Array Zero by Subtracting Equal Amounts	72.5%	Easy	             
 - 412, Fizz Buzz	68.7%	Easy	            
@@ -24,4 +24,4 @@
 - 2221, Find Triangular Sum of an Array	79.1%	Medium	       
 - 1823, Find the Winner of the Circular Game	77.8%	Medium    
   
-###### Current SIMULATION(4/20)
+###### Current SIMULATION(5/20)
