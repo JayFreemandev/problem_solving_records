@@ -8,7 +8,7 @@
 - [2169, Count Operations to Obtain Zero](https://sour-othnielia-55f.notion.site/2169-Count-Operations-to-Obtain-Zero-1fe0bb1aab084ed9bb1a389b95575adb)
 - [2154, Keep Multiplying Found Values by Two](https://sour-othnielia-55f.notion.site/2154-Keep-Multiplying-Found-Values-by-Two-3cf66b7bd1e6475698a7478ab3c2f477)
 - [2357, Make Array Zero by Subtracting Equal Amounts](https://sour-othnielia-55f.notion.site/2357-Make-Array-Zero-by-Subtracting-Equal-Amounts-eb2a46c0f24c4005bc68532ffbbcbec2)
-- 412, Fizz Buzz	68.7%	Easy	            
+- [412, Fizz Buzz](https://sour-othnielia-55f.notion.site/412-Fizz-Buzz-6d81357f74164731a83ab8780276d3bb)   
 - 1260, Shift 2D Grid	68.0%	Easy	                             
 - 1700, Number of Students Unable to Eat Lunch	67.8%	Easy	            
 - 2243, Calculate Digit Sum of a String	66.9%	Easy	           
@@ -24,4 +24,4 @@
 - 2221, Find Triangular Sum of an Array	79.1%	Medium	       
 - 1823, Find the Winner of the Circular Game	77.8%	Medium    
   
-###### Current SIMULATION(7/20)
+###### Current SIMULATION(8/20)
