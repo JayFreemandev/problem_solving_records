@@ -10,7 +10,7 @@
 - [2357, Make Array Zero by Subtracting Equal Amounts](https://sour-othnielia-55f.notion.site/2357-Make-Array-Zero-by-Subtracting-Equal-Amounts-eb2a46c0f24c4005bc68532ffbbcbec2)
 - [412, Fizz Buzz](https://sour-othnielia-55f.notion.site/412-Fizz-Buzz-6d81357f74164731a83ab8780276d3bb)   
 - [1260, Shift 2D Grid🎁](https://sour-othnielia-55f.notion.site/1260-Shift-2D-Grid-f4862761d11a418e8b88ac1a28bbe48a)                          
-- 1700, Number of Students Unable to Eat Lunch	67.8%	Easy	            
+- [1700, Number of Students Unable to Eat Lunch](https://sour-othnielia-55f.notion.site/1700-Number-of-Students-Unable-to-Eat-Lunch-eca783dedb514a378dc2ab9f1ca17ab8)
 - 2243, Calculate Digit Sum of a String	66.9%	Easy	           
 - 2138, Divide a String Into Groups of Size k	65.1%	Easy	         
 - 2180, Count Integers With Even Digit Sum	64.5%	Easy            	
@@ -24,4 +24,4 @@
 - 2221, Find Triangular Sum of an Array	79.1%	Medium	       
 - 1823, Find the Winner of the Circular Game	77.8%	Medium    
   
-###### Current SIMULATION(9/20)
+###### Current SIMULATION(10/20)
