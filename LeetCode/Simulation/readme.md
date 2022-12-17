@@ -11,7 +11,7 @@
 - [412, Fizz Buzz](https://sour-othnielia-55f.notion.site/412-Fizz-Buzz-6d81357f74164731a83ab8780276d3bb)   
 - [1260, Shift 2D Grid🎁](https://sour-othnielia-55f.notion.site/1260-Shift-2D-Grid-f4862761d11a418e8b88ac1a28bbe48a)                          
 - [1700, Number of Students Unable to Eat Lunch](https://sour-othnielia-55f.notion.site/1700-Number-of-Students-Unable-to-Eat-Lunch-eca783dedb514a378dc2ab9f1ca17ab8)
-- [2243, Calculate Digit Sum of a String](https://sour-othnielia-55f.notion.site/2243-Calculate-Digit-Sum-of-a-String-e343e8e96eb74122a57c3bbd5d129ae2)     
+- [2243, Calculate Digit Sum of a String](https://sour-othnielia-55f.notion.site/2243-Calculate-Digit-Sum-of-a-String-e343e8e96eb74122a57c3bbd5d129ae2)
 - 2138, Divide a String Into Groups of Size k	65.1%	Easy	         
 - 2180, Count Integers With Even Digit Sum	64.5%	Easy            	
 - 2293, Min Max Game	64.2%	Easy        
