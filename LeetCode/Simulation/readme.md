@@ -14,7 +14,7 @@
 - [2243, Calculate Digit Sum of a String](https://sour-othnielia-55f.notion.site/2243-Calculate-Digit-Sum-of-a-String-e343e8e96eb74122a57c3bbd5d129ae2)
 - [2138, Divide a String Into Groups of Size k](https://sour-othnielia-55f.notion.site/2138-Calculate-Digit-Sum-of-a-String-1-107e949ac74441b28c5c1dc00b1cfb56)
 - [2180, Count Integers With Even Digit Sum](https://sour-othnielia-55f.notion.site/2180-Count-Integers-With-Even-Digit-Sum-84c368839af04d2fb66e13f7ed522846)
-- 2293, Min Max Game	64.2%	Easy        
+- [2293, Min Max Game](https://sour-othnielia-55f.notion.site/2293-Min-Max-Game-98b3f34c87f24f4094736e2228b3130a)
 
 #### medium
 - 2181, Merge Nodes in Between Zeros	86.9%	Medium	         
@@ -24,4 +24,4 @@
 - 2221, Find Triangular Sum of an Array	79.1%	Medium	       
 - 1823, Find the Winner of the Circular Game	77.8%	Medium    
   
-###### Current SIMULATION(13/20)
+###### Current SIMULATION(14/20)
