@@ -1,4 +1,4 @@
-class Solution {
+class EASY_1700 {
     public int countStudents(int[] students, int[] sandwiches) {
         int zeroCount = 0, oneCount = 0;
 
