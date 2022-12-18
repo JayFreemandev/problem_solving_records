@@ -1,7 +1,7 @@
 /**
  * Created at 2022-12-17
  * Site -> LINKEDIN
- * Link -> https://leetcode.com/problems/calculate-digit-sum-of-a-string/
+ * Link -> https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/description/
  * Level -> EASY
  * Topic -> SIMULATION
  */
