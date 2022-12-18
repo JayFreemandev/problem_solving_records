@@ -13,7 +13,7 @@
 - [1700, Number of Students Unable to Eat Lunch](https://sour-othnielia-55f.notion.site/1700-Number-of-Students-Unable-to-Eat-Lunch-eca783dedb514a378dc2ab9f1ca17ab8)
 - [2243, Calculate Digit Sum of a String](https://sour-othnielia-55f.notion.site/2243-Calculate-Digit-Sum-of-a-String-e343e8e96eb74122a57c3bbd5d129ae2)
 - [2138, Divide a String Into Groups of Size k](https://sour-othnielia-55f.notion.site/2138-Calculate-Digit-Sum-of-a-String-1-107e949ac74441b28c5c1dc00b1cfb56)
-- 2180, Count Integers With Even Digit Sum	64.5%	Easy            	
+- [2180, Count Integers With Even Digit Sum](https://sour-othnielia-55f.notion.site/2180-Count-Integers-With-Even-Digit-Sum-84c368839af04d2fb66e13f7ed522846)
 - 2293, Min Max Game	64.2%	Easy        
 
 #### medium
@@ -24,4 +24,4 @@
 - 2221, Find Triangular Sum of an Array	79.1%	Medium	       
 - 1823, Find the Winner of the Circular Game	77.8%	Medium    
   
-###### Current SIMULATION(12/20)
+###### Current SIMULATION(13/20)
