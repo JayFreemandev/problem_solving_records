@@ -17,11 +17,11 @@
 - [2293, Min Max Game](https://sour-othnielia-55f.notion.site/2293-Min-Max-Game-98b3f34c87f24f4094736e2228b3130a)
 
 #### medium
-- 2181, Merge Nodes in Between Zeros	86.9%	Medium	         
+- [2181, Merge Nodes in Between Zero](https://sour-othnielia-55f.notion.site/2181-Merge-Nodes-in-Between-Zeros-d7340f49126e41ffa5e80097b5fad847)        
 - 2161, Partition Array According to Given Pivot	84.3%	Medium	            
 - 2120, Execution of All Suffix Instructions Staying in a Grid	83.6%	Medium	                 
 - 2149, Rearrange Array Elements by Sign	81.0%	Medium	            
 - 2221, Find Triangular Sum of an Array	79.1%	Medium	       
 - 1823, Find the Winner of the Circular Game	77.8%	Medium    
   
-###### Current SIMULATION(14/20)
+###### Current SIMULATION(15/20)
