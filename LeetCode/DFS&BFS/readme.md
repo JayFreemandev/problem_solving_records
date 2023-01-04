@@ -35,7 +35,6 @@
 1022, Sum of Root To Leaf Binary Numbers  
 1971, Find if Path Exists in Graph  
 2331, Evaluate Boolean Binary Tree  
-34
 
 #### Medium
 695. Max Area of Island  
