@@ -49,8 +49,8 @@ A : 한 3달잡고 100~200문제 풀어보니까 자주 쓰는 패턴도 보이�
 > 리트코드는 하나의 여정이다. 시작도 끝도 없다..
 > 
 
-**레퍼런스**
-###### [my_leetcode_study_guide](https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/)
-###### [leetcode-patterns](https://seanprashad.com/leetcode-patterns/)
-###### Current LeetCode(34/500)
-###### Current Programmers(8/55)
+##### 레퍼런스
+**[my_leetcode_study_guide](https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/)**  
+**[leetcode-patterns](https://seanprashad.com/leetcode-patterns/)**  
+**Current LeetCode(51/500)**  
+**Current Programmers(8/55)**
