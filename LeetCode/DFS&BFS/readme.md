@@ -2,7 +2,7 @@
 ### October
 #### Easy
 - [94, Binary Tree Inorder Traversal](https://sour-othnielia-55f.notion.site/94-Binary-Tree-Inorder-Traversal-e6ce6f7a9cea40ea8948d1581d2ca717)  
-100, Same Tree  
+- [100, Same Tree](https://sour-othnielia-55f.notion.site/100-Same-Tree-72e17656c1df46639d234e781d090004)
 101, Symmetric Tree  
 104, Maximum Depth of Binary Tree  
 110, Balanced Binary Tree  
@@ -48,4 +48,4 @@
 2265. Count Nodes Equal to Average of Subtree  
 2415. Reverse Odd Levels of Binary Tree  
 
-###### Current DFS/BFS(1/44)
+###### Current DFS/BFS(2/44)
