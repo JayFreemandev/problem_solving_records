@@ -1,5 +1,5 @@
 ## 2023
-### October
+### January
 #### Easy
 - [94, Binary Tree Inorder Traversal](https://sour-othnielia-55f.notion.site/94-Binary-Tree-Inorder-Traversal-e6ce6f7a9cea40ea8948d1581d2ca717)  
 - [100, Same Tree](https://sour-othnielia-55f.notion.site/100-Same-Tree-72e17656c1df46639d234e781d090004)  
@@ -25,27 +25,25 @@
 653, Two Sum IV - Input is a BST  
 733, Flood Fill  
 783, Minimum Distance Between BST Nodes  
-783, Minimum Distance Between BST Nodes  
-872, Leaf-Similar Trees  -> 15  
-897, Increasing Order Search Tree  
-938, Range Sum of BST  
+872, Leaf-Similar Trees  
+897, Increasing Order Search Tree  -> 15  
+938, Range Sum of BST    
 965, Univalued Binary Tree  
-965, Univalued Binary Tree  
-993, Cousins in Binary Tree  -> week  
-1022, Sum of Root To Leaf Binary Numbers  
-1971, Find if Path Exists in Graph  
+993, Cousins in Binary Tree  
+1022, Sum of Root To Leaf Binary Numbers   
+1971, Find if Path Exists in Graph  -> week  
 2331, Evaluate Boolean Binary Tree  
 
 #### Medium
 695. Max Area of Island  
-797. All Paths From Source to Target  -> 21  
+797. All Paths From Source to Target  
 1038. Binary Search Tree to Greater Sum Tree  
-1261. Find Elements in a Contaminated Binary Tree  
+1261. Find Elements in a Contaminated Binary Tree  -> 21  
 1302. Deepest Leaves Sum  
 1315. Sum of Nodes with Even-Valued Grandparent  
-1448. Count Good Nodes in Binary Tree  -> 22  
+1448. Count Good Nodes in Binary Tree    
 2196. Create Binary Tree From Descriptions  
-2265. Count Nodes Equal to Average of Subtree  
-2415. Reverse Odd Levels of Binary Tree  -> 23  
+2265. Count Nodes Equal to Average of Subtree   
+2415. Reverse Odd Levels of Binary Tree -> 22
 
-###### Current DFS/BFS(11/44)
+###### Current DFS/BFS(11/42)
