@@ -12,8 +12,8 @@
 - [145, Binary Tree Postorder Traversal](https://sour-othnielia-55f.notion.site/145-Binary-Tree-Postorder-Traversal-2364f973ebc24b1ba7c75870cc195606)
 - [226, Invert Binary Tree](https://sour-othnielia-55f.notion.site/226-Invert-Binary-Tree-c23e6a71458a4a1abd4c90765f2d9650)
 - [257, Binary Tree Paths](https://sour-othnielia-55f.notion.site/257-Binary-Tree-Paths-de89a8221ba04304a9cf6aa633dc81f2)  
-404, Sum of Left Leaves  
-463, Island Perimeter  
+- [404, Sum of Left Leaves](https://sour-othnielia-55f.notion.site/404-Sum-of-Left-Leaves-6cd6d97649654046935974c1631f9d80)  
+- [463, Island Perimeter](https://sour-othnielia-55f.notion.site/463-Island-Perimeter-073cf0d6be3d4cf09eae58518b799d95)  
 501, Find Mode in Binary Search Tree  
 530, Minimum Absolute Difference in BST  
 559, Maximum Depth of N-ary Tree  -> week  
