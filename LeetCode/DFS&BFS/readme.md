@@ -15,8 +15,8 @@
 - [404, Sum of Left Leaves](https://sour-othnielia-55f.notion.site/404-Sum-of-Left-Leaves-6cd6d97649654046935974c1631f9d80)  
 - [463, Island Perimeter](https://sour-othnielia-55f.notion.site/463-Island-Perimeter-073cf0d6be3d4cf09eae58518b799d95)  
 - [501, Find Mode in Binary Search Tree](https://sour-othnielia-55f.notion.site/501-Find-Mode-in-Binary-Search-Tree-0ea37e09ee72448bad8c4dfe02b28053)  
-530, Minimum Absolute Difference in BST  
-559, Maximum Depth of N-ary Tree  -> week  
+- [530, Minimum Absolute Difference in BST](https://sour-othnielia-55f.notion.site/530-Minimum-Absolute-Difference-in-BST-49b9d143ba584dcea691dc35279a1d18)*  
+- [559, Maximum Depth of N-ary Tree](https://sour-othnielia-55f.notion.site/559-Maximum-Depth-of-N-ary-Tree-2df5f28e11bf478697c3c78c6c9f61ee)*  
 572, Subtree of Another Tree  
 589, N-ary Tree Preorder Traversal  
 590, N-ary Tree Postorder Traversal  
@@ -46,4 +46,4 @@
 2265. Count Nodes Equal to Average of Subtree   
 2415. Reverse Odd Levels of Binary Tree -> 22
 
-###### Current DFS/BFS(14/42)
+###### Current DFS/BFS(16/42)
