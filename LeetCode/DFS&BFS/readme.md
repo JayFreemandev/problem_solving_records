@@ -15,8 +15,8 @@
 - [404, Sum of Left Leaves](https://sour-othnielia-55f.notion.site/404-Sum-of-Left-Leaves-6cd6d97649654046935974c1631f9d80)  
 - [463, Island Perimeter](https://sour-othnielia-55f.notion.site/463-Island-Perimeter-073cf0d6be3d4cf09eae58518b799d95)  
 - [501, Find Mode in Binary Search Tree](https://sour-othnielia-55f.notion.site/501-Find-Mode-in-Binary-Search-Tree-0ea37e09ee72448bad8c4dfe02b28053)  
-- [530, Minimum Absolute Difference in BST](https://sour-othnielia-55f.notion.site/530-Minimum-Absolute-Difference-in-BST-49b9d143ba584dcea691dc35279a1d18)*  
-- [559, Maximum Depth of N-ary Tree](https://sour-othnielia-55f.notion.site/559-Maximum-Depth-of-N-ary-Tree-2df5f28e11bf478697c3c78c6c9f61ee)*  
+- [530, Minimum Absolute Difference in BST](https://sour-othnielia-55f.notion.site/530-Minimum-Absolute-Difference-in-BST-49b9d143ba584dcea691dc35279a1d18)  
+- [559, Maximum Depth of N-ary Tree](https://sour-othnielia-55f.notion.site/559-Maximum-Depth-of-N-ary-Tree-2df5f28e11bf478697c3c78c6c9f61ee)  
 - [572, Subtree of Another Tree*](https://sour-othnielia-55f.notion.site/572-Subtree-of-Another-Tree-d1893d44472a4e56b6a04828dc1aeb92)  
 - [589, N-ary Tree Preorder Traversal](https://sour-othnielia-55f.notion.site/589-N-ary-Tree-Preorder-Traversal-42ffb92a9ae94cfca0ed9312aef52fb6)  
 - [590, N-ary Tree Postorder Traversal](https://sour-othnielia-55f.notion.site/590-N-ary-Tree-Postorder-Traversal-098248f81b7f480aad1ad7dffc05f14c)   
