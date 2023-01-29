@@ -28,10 +28,10 @@
 897, Increasing Order Search Tree  -> 15  
 938, Range Sum of BST    
 965, Univalued Binary Tree  
-993, Cousins in Binary Tree  
-1022, Sum of Root To Leaf Binary Numbers   
-1971, Find if Path Exists in Graph  -> week  
-2331, Evaluate Boolean Binary Tree  
+-[993, Cousins in Binary Trer]()
+-[1022, Sum of Root To Leaf Binary Numbers](https://sour-othnielia-55f.notion.site/1022-Sum-of-Root-To-Leaf-Binary-Numbers-1911bb4f429747ffb39a4a57e3f3136e)   
+-[1971, Find if Path Exists in Graph]() -> x
+-[2331, Evaluate Boolean Binary Tree](https://sour-othnielia-55f.notion.site/2331-Evaluate-Boolean-Binary-Tree-d08ad6d1f49a4dbc9d8e5a104ea04101)
 
 #### Medium
 695. Max Area of Island  
