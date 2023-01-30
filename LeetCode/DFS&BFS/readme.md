@@ -25,13 +25,13 @@
 733, Flood Fill  
 783, Minimum Distance Between BST Nodes  
 872, Leaf-Similar Trees  
-897, Increasing Order Search Tree  -> 15  
-938, Range Sum of BST    
-965, Univalued Binary Tree  
--[993, Cousins in Binary Trer]()
--[1022, Sum of Root To Leaf Binary Numbers](https://sour-othnielia-55f.notion.site/1022-Sum-of-Root-To-Leaf-Binary-Numbers-1911bb4f429747ffb39a4a57e3f3136e)   
--[1971, Find if Path Exists in Graph]() -> x
--[2331, Evaluate Boolean Binary Tree](https://sour-othnielia-55f.notion.site/2331-Evaluate-Boolean-Binary-Tree-d08ad6d1f49a4dbc9d8e5a104ea04101)
+- [897, Increasing Order Search Tree](https://sour-othnielia-55f.notion.site/897-Increasing-Order-Search-Tree-6ec4d210c3284bd38575b2eb79568214)  
+- [938, Range Sum of BST](https://sour-othnielia-55f.notion.site/938-Range-Sum-of-BST-43946825baf344ca84a494b7b7d7f64a)  
+- [965, Univalued Binary Tree]()  
+- [993, Cousins in Binary Trer]()  
+- [1022, Sum of Root To Leaf Binary Numbers](https://sour-othnielia-55f.notion.site/1022-Sum-of-Root-To-Leaf-Binary-Numbers-1911bb4f429747ffb39a4a57e3f3136e)  
+- [1971, Find if Path Exists in Graph]() -> x  
+- [2331, Evaluate Boolean Binary Tree](https://sour-othnielia-55f.notion.site/2331-Evaluate-Boolean-Binary-Tree-d08ad6d1f49a4dbc9d8e5a104ea04101)  
 
 #### Medium
 695. Max Area of Island  
