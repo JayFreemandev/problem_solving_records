@@ -24,7 +24,7 @@
 - [653, Two Sum IV - Input is a BST*](https://sour-othnielia-55f.notion.site/653-Two-Sum-IV-Input-is-a-BST-8363076aef3e433dbd60d3e6aba1f595)  
 733, Flood Fill  
 783, Minimum Distance Between BST Nodes  
-872, Leaf-Similar Trees  
+- [872, Leaf-Similar Trees](https://sour-othnielia-55f.notion.site/872-Leaf-Similar-Trees-4f4ad9da862c4f52b1a60342a56236f2)  
 - [897, Increasing Order Search Tree](https://sour-othnielia-55f.notion.site/897-Increasing-Order-Search-Tree-6ec4d210c3284bd38575b2eb79568214)  
 - [938, Range Sum of BST](https://sour-othnielia-55f.notion.site/938-Range-Sum-of-BST-43946825baf344ca84a494b7b7d7f64a)  
 - [965, Univalued Binary Tree]()  
