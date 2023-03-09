@@ -36,7 +36,7 @@
 #### Medium
 - [695. Max Area of Island](https://sour-othnielia-55f.notion.site/695-Max-Area-of-Island-9c3af0b80fc94fd3a57680ce6375e105)  
 - [797. All Paths From Source to Target](https://sour-othnielia-55f.notion.site/797-All-Paths-From-Source-to-Target-306cac6a832a49648f0797836279e5ea)  
-1038. Binary Search Tree to Greater Sum Tree  
+- [1038. Binary Search Tree to Greater Sum Tree](https://sour-othnielia-55f.notion.site/1038-Binary-Search-Tree-to-Greater-Sum-Tree-db3e2e80726b45a5be8fad6f1eed9bca)  
 1261. Find Elements in a Contaminated Binary Tree  -> 21  
 1302. Deepest Leaves Sum  
 1315. Sum of Nodes with Even-Valued Grandparent  
