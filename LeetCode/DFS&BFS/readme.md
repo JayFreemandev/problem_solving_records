@@ -39,9 +39,10 @@
 - [1038. Binary Search Tree to Greater Sum Tree](https://sour-othnielia-55f.notion.site/1038-Binary-Search-Tree-to-Greater-Sum-Tree-db3e2e80726b45a5be8fad6f1eed9bca)  
 - [1302. Deepest Leaves Sum](https://sour-othnielia-55f.notion.site/1302-Deepest-Leaves-Sum-f9cd61e5ea124e1caa998f00342d1fa9)  
 - [315. Sum of Nodes with Even-Valued Grandparent](https://sour-othnielia-55f.notion.site/1315-Sum-of-Nodes-with-Even-Valued-Grandparent-fbf04b93dcd04c1ebcb95ade0a556b49)  
-1448. Count Good Nodes in Binary Tree    
-2196. Create Binary Tree From Descriptions  
-2265. Count Nodes Equal to Average of Subtree   
-2415. Reverse Odd Levels of Binary Tree -> 22
+- [1448. Count Good Nodes in Binary Tree](https://sour-othnielia-55f.notion.site/1448-Count-Good-Nodes-in-Binary-Tree-b72074889b074b32b56fe7d52064abcc)  
+- [2196. Create Binary Tree From Descriptions](https://sour-othnielia-55f.notion.site/2196-Create-Binary-Tree-From-Descriptions-fd623a9d4fde424c981c8717f5a92bcd)  
+> 재풀이 필요 removeAll()  
+- [2265. Count Nodes Equal to Average of Subtree]
+- [2415. Reverse Odd Levels of Binary Tree]
 
 ###### Current DFS/BFS(17/41)
