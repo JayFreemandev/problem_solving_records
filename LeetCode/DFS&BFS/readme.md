@@ -43,6 +43,6 @@
 - [2196. Create Binary Tree From Descriptions](https://sour-othnielia-55f.notion.site/2196-Create-Binary-Tree-From-Descriptions-fd623a9d4fde424c981c8717f5a92bcd)  
 > 재풀이 필요 removeAll()  
 - [2265. Count Nodes Equal to Average of Subtree]
-- [2415. Reverse Odd Levels of Binary Tree]
+- [2415. Reverse Odd Levels of Binary Tree](https://sour-othnielia-55f.notion.site/2415-Reverse-Odd-Levels-of-Binary-Tree-05ffac9c2d764e589126dea49d99db2d)
 
-###### Current DFS/BFS(38/40)
+###### Current DFS/BFS(39/40)
