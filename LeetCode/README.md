@@ -10,4 +10,4 @@
 **Step 3**
 - [blind 75](https://github.com/JayFreemandev/Problem-Solving/tree/main/LeetCode/Hidden%20Quest/Blind)
 
-###### Current leetcode grind(52/500)  
+###### Current leetcode grind(91/500)  
