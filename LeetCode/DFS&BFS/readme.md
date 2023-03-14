@@ -42,7 +42,7 @@
 - [1448. Count Good Nodes in Binary Tree](https://sour-othnielia-55f.notion.site/1448-Count-Good-Nodes-in-Binary-Tree-b72074889b074b32b56fe7d52064abcc)  
 - [2196. Create Binary Tree From Descriptions](https://sour-othnielia-55f.notion.site/2196-Create-Binary-Tree-From-Descriptions-fd623a9d4fde424c981c8717f5a92bcd)  
 > 재풀이 필요 removeAll()  
-- [2265. Count Nodes Equal to Average of Subtree]
+- [2265. Count Nodes Equal to Average of Subtree](https://sour-othnielia-55f.notion.site/2265-Count-Nodes-Equal-to-Average-of-Subtree-8e8886e40df74b308d9386a53b3ed349)  >  
 - [2415. Reverse Odd Levels of Binary Tree](https://sour-othnielia-55f.notion.site/2415-Reverse-Odd-Levels-of-Binary-Tree-05ffac9c2d764e589126dea49d99db2d)
 
-###### Current DFS/BFS(39/40)
+###### Current DFS/BFS(40/40)
