@@ -4,12 +4,9 @@
 
 - Back Tracking(Brute force)(4)
 
-[Boggle](https://www.educative.io/courses/coderust-hacking-the-coding-interview/kR9qv)
-
-[Generate all Combinations of Balanced Parentheses](https://www.educative.io/courses/coderust-hacking-the-coding-interview/jRXmB) → week
-
+[Boggle](https://www.educative.io/courses/coderust-hacking-the-coding-interview/kR9qv) -> 문제 못찾음  
+[Generate all Combinations of Balanced Parentheses](https://www.educative.io/courses/coderust-hacking-the-coding-interview/jRXmB)
 [Solve N-Queens Problem](https://www.educative.io/courses/coderust-hacking-the-coding-interview/j2WmR)
-
 [Find K-Sum Subsets](https://www.educative.io/courses/coderust-hacking-the-coding-interview/kRg9X)
 
 - **Graphs(3)**
