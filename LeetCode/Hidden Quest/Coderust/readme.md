@@ -8,9 +8,9 @@ https://www.designgurus.io/course/grokking-the-coding-interview
 - Back Tracking(Brute force)(4)
 
 [Boggle](https://www.educative.io/courses/coderust-hacking-the-coding-interview/kR9qv) -> 문제 못찾음  
-[Generate all Combinations of Balanced Parentheses](https://www.educative.io/courses/coderust-hacking-the-coding-interview/jRXmB)
-[Solve N-Queens Problem](https://www.educative.io/courses/coderust-hacking-the-coding-interview/j2WmR)
-[Find K-Sum Subsets](https://www.educative.io/courses/coderust-hacking-the-coding-interview/kRg9X)
+[Generate all Combinations of Balanced Parentheses](https://sour-othnielia-55f.notion.site/22-Generate-Parentheses-319e06ac5693446e8c30ff0172cafa99) -> retry  
+[Solve N-Queens Problem](https://www.educative.io/courses/coderust-hacking-the-coding-interview/j2WmR)  
+[Find K-Sum Subsets](https://www.educative.io/courses/coderust-hacking-the-coding-interview/kRg9X)  
 
 - **Graphs(3)**
 
