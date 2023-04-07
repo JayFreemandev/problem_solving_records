@@ -200,4 +200,4 @@ https://www.designgurus.io/course/grokking-the-coding-interview
 
 [Product of All Array Elements Except Self](https://www.educative.io/courses/coderust-hacking-the-coding-interview/7DOROg2O7Zj)
 
-##### current (1/n)
+##### current (3/n)
