@@ -5,7 +5,7 @@
 - [DFS/BFS](https://github.com/JayFreemandev/Problem-Solving/tree/main/LeetCode/DFS%26BFS) 1월
 
 **Step 2**
-- [Coderust](https://github.com/JayFreemandev/Problem-Solving/tree/main/LeetCode/Hidden%20Quest/Coderust) 3월
+- [Coderust](https://github.com/JayFreemandev/Problem-Solving/tree/main/LeetCode/Hidden%20Quest/Coderust)
 
 **Step 3**
 - [blind 75](https://github.com/JayFreemandev/Problem-Solving/tree/main/LeetCode/Hidden%20Quest/Blind)
