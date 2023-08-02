@@ -2,29 +2,30 @@ import java.util.Arrays;
 
 public class Anagram {
     public static void main(String[] args) {
-        String pizza = "pizza";
-        String hitzza = "piazz";
+        int k = 2;
+        int[] nums = {1, 1, 0, 0};
 
-        // 공백 제거
-        pizza.trim();
-        hitzza.trim();
+        int maxLength = 0; // 가장 긴 1의 연속된 부분 배열의 길이
+        int countZeros = 0; // 현재 0의 개수
+        int left = 0; // 윈도우의 왼쪽 인덱스
 
-        // 문자열 길이 체크
-        if(pizza.length() != hitzza.length()){
-            System.out.println("false");
+        for (int right = 0; right < nums.length; right++) {
+            if (nums[right] == 0) {
+                countZeros++;
+            }
+
+            // 0의 개수가 2개 이상인 경우, 윈도우를 이동시킴
+            while (countZeros > k) {
+                if (nums[left] == 0) {
+                    countZeros--;
+                }
+                left++;
+            }
+
+            // 현재 1의 연속된 부분 배열의 길이를 갱신
+            maxLength = Math.max(maxLength, right - left);
         }
 
-        // 소문자 정렬
-        char[] char1 = pizza.toLowerCase().toCharArray();
-        char[] char2 = hitzza.toLowerCase().toCharArray();
-
-        Arrays.sort(char1);
-        Arrays.sort(char2);
-
-        // 스트링 비교
-        String result1 = new String(char1);
-        String result2 = new String(char2);
-
-        System.out.println(result1.equals(result2));
+        System.out.println(maxLength);
     }
 }
