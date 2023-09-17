@@ -59,10 +59,10 @@ public class Queue {
         return queueArray[front];
     }
 
-    private boolean isEmpty(){
+    public boolean isEmpty(){
         return size <= 0;
     }
-    private boolean isFull(){
+    public boolean isFull(){
         return size >= maxSize;
     }
 }

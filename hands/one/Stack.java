@@ -43,11 +43,11 @@ public class Stack {
         return stackArray[top];
     }
 
-    private boolean isEmpty(){
+    public boolean isEmpty(){
         return top == -1;
     }
 
-    private boolean isFull(){
+    public boolean isFull(){
         return top == maxSize -1;
     }
 }
