@@ -1,4 +1,8 @@
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Stack;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 /**
  * packageName    : PACKAGE_NAME
@@ -20,27 +24,24 @@ public class 햄버거만들기 {
     }
 
     public int solution(int[] ingredients) {
-        int result = 0;
+        int answer = 0;
 
-        Stack<Integer> stack = new Stack<>();
+        List<Integer> list = IntStream.of(ingredients)
+            .boxed()
+            .collect(Collectors.toList());
 
-        for (int ingredient : ingredients) {
-            stack.push(ingredient);
-
-            if (stack.size() >= 4) {
-                int size = stack.size();
-
-                if(stack.get(size - 1) == 1 && stack.get(size - 2) == 3 && stack.get(size - 3) == 2 && stack.get(size - 4) == 1) {
-                    result++;
-                    stack.pop();
-                    stack.pop();
-                    stack.pop();
-                    stack.pop();
-                }
+        for(int i=0; i<list.size()-3; i++){
+            if(list.get(i)==1 && list.get(i+1)==2 && list.get(i+2)==3 && list.get(i+3)==1){
+                answer++;
+                for(int j=0; j<4; j++)
+                    list.remove(i);
+                if(i<=2)
+                    i=-1;  // 0번 인덱스부터 다시 체크
+                else
+                    i=i-4; // 현 위치로부터 세칸 전부터 체크 ex) 1231234이고 i=3일 때
             }
-
         }
 
-        return result;
+        return answer;
     }
 }
