@@ -1,6 +1,4 @@
-# Problem Solving Study
-
-## Step 0. LeetCode Easy Grind
+# Problem Solving
 > 
 > 리트코드는 하나의 여정이다. 시작도 끝도 없다.
 > 
