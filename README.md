@@ -43,4 +43,4 @@
 - https://www.coursera.org/learn/algorithms-part2
 - [시각화](https://visualgo.net/en)
   
-#### **Current LeetCode(1/500)** 
+#### **Current LeetCode(2/500)**
