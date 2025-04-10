@@ -19,13 +19,6 @@
 14) [Backtracking](https://github.com/FazeelUsmani/Amazon-SDE-Test-Series/tree/master/14%20Backtracking)
 15) [Dynamic Programming](https://github.com/FazeelUsmani/Amazon-SDE-Test-Series/tree/master/15%20Dynamic%20Programming)
 
-자료구조 시각화 [VisuAlgo](https://visualgo.net/en)
-
-### The guide for problem constraints: 
-
-![image](https://github.com/user-attachments/assets/b58b099d-1708-4107-9729-a5c5731510d4)
-
-
 |N|Complexity|Possible Algorithms & Techniques|
 |-|----------|--------------------------------|
 |10<sup>18</sup>|O(log N)|Binary & Ternary Search / Matrix Power / Cycle Tricks / Big Simulation Steps / Values ReRank|
@@ -48,5 +41,6 @@
 - [Coderust](https://www.educative.io/courses/coderust-hacking-the-coding-interview)
 - https://www.coursera.org/learn/algorithms-part1
 - https://www.coursera.org/learn/algorithms-part2
-
+- [시각화](https://visualgo.net/en)
+  
 #### **Current LeetCode(1/500)** 
