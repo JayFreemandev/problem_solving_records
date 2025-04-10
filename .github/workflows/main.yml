@@ -1,6 +1,8 @@
 name: Update LeetCode Problem Count
 
 on:
+  schedule:
+    - cron: "0 15 * * *"  
   push:
     paths:
       - '**/*.py'
@@ -39,4 +41,4 @@ jobs:
           fi
 
       - name: Done
-        run: echo " README solved count done"
+        run: echo "README solved count update complete"
